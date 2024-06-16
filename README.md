@@ -1,7 +1,6 @@
 ### Hi there 👋
- - I'm a backend engineer
- - fluent in both Japanese and English
- - I am eager to pursue my career as a software developer
+ - I'm a backend/fullstack engineer
+ - fluent in both English and Japanese
 ### Experience
  - Web Application Development
  - Cloud environment
@@ -12,7 +11,8 @@
 fundamental computer science knowledge
 
 proficient in
- - golang
+ - Go
+ - TypeScript
  - ruby / python
 familiar with
  - Haskell
